@@ -71,17 +71,11 @@
 	}],
 	"interests": [{
 		
-		"name": "COMMUNICATION SKILLS",
-		"keywords": ["PUBLIC SPEAKING", "POEM WRITTING " , "CONTENT WRITTING" ]
-		
-		
-	}],
-	"interests": [{
-		"name": "SPORTS",
-		"keywords": ["Chess", "Badminton" , "Cricket " , "Volleyball" , "Squash" , "Swimming"]
-		
+		"name": "SKILLS ANS INTERESTS",
+		"keywords": ["PUBLIC SPEAKING", "POEM WRITTING " , "CONTENT WRITTING" , "SPORTS" ,"LOGICAL RIDDLES " ,"MUSIC"  ]
 		
 		
 	}]
+
 	
 }

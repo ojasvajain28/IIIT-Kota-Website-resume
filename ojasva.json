@@ -1,87 +1,76 @@
 {
 	"basics": {
-		"name": "ojasva jain",
+		"name": "OJASVA JAIN",
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/82510877?v=4",
 		"email": "2020KUCP1003@iiitkota.ac.in",
 		"phone": "9826623499",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "hello! ",
+		"website": "https://kmieittlzz5z8dymacz5fg-on.drv.tw/websitepage/resume/",
+		"summary": "hello!  ",
 		"location": {
 			"address": "57-58 Anurag Nagar extension near LIg square Indore (Madhya Pradesh)",
 			"postalCode": "452011",
 			"city": "Indore",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Madhya Pradesh"
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
+				"username": "@JainOjasva",
+				"url": "https://www.twitter.com/JainOjasva/"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "ojasvajain28",
+				"url": "https://www.github.com/ojasvajain28/"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "Ojasva Jain",
+				"url": "www.linkedin.com/in/ojasva-jain-281406200"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "ojasvajain1",
+				"url": "https://www.instagram.com/ojasvajain1/"
 			}
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
+	
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
+		"organization": "MNIT Jaipur ENTREPRENEURSHIP DEVELOPMENT CELL",
+		"position": "Social Media Head",
+		"website": "https://edcmnitj.co.in/",
+		"startDate": "2020-02-012 // Note Date Format",
+		"endDate": "---"
+		
+		
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"studyType": "B.TECH(CSE)",
+		"startDate": "2020-02-12 ",
+		"endDate": "2024 ",
+		"gpa": "1st sem-8.36,2nd sem-9.14",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
+	
+	
 	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
+		"title": "EXAMINATION PRESSURE ",
+		"details": " There is lot of pressure of JEE , NEET and all other competitive exams ",
+		"link": "https://www.instagram.com/p/CL4FfHOgOmIO3VJg1D3MMJf8HKmgy8GtOKqbSg0/"
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Video Editing","Data structure and algorithms"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
-	}],
-	"references": []
+		"keywords": ["Chess", "Badminton" , "Cricket " , "Volleyball" , "Squash" , "Swimming"]
+	}]
+	
 }

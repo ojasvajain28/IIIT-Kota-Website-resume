@@ -70,10 +70,16 @@
 		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Video Editing","Data structure and algorithms"]
 	}],
 	"interests": [{
-		"name": "SPORTS",
-		"keywords": ["Chess", "Badminton" , "Cricket " , "Volleyball" , "Squash" , "Swimming"],
+		
 		"name": "COMMUNICATION SKILLS",
 		"keywords": ["PUBLIC SPEAKING", "POEM WRITTING " , "CONTENT WRITTING" ]
+		
+		
+	}],
+	"interests": [{
+		"name": "SPORTS",
+		"keywords": ["Chess", "Badminton" , "Cricket " , "Volleyball" , "Squash" , "Swimming"]
+		
 		
 		
 	}]
